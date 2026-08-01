@@ -1,4 +1,4 @@
-# CalcVerse
+# [CalcVerse](https://mizan989.github.io/CalcVerse/)
 
 A scientific calculator built with React, Tailwind CSS, and [mathjs](https://mathjs.org/) — degree/radian trig, memory functions, calculation history, keyboard shortcuts, and three built-in themes.
 
@@ -122,7 +122,3 @@ calcverse/
 | `N` | Insert `ln(` (natural log) |
 | `P` | Insert `π` |
 | `E` | Insert Euler's number `e` |
-
-## License
-
-Free to use and modify for personal or educational purposes.
