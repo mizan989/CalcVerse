@@ -109,7 +109,7 @@ calcverse/
 
 ## Keyboard shortcuts
 
-| Key | Action |
+| Key | Action | 
 |-----|--------|
 | `0`–`9`, `+ - * / ( ) . % ^` | Enter digits and operators |
 | `Enter` or `=` | Evaluate expression |
