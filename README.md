@@ -2,7 +2,7 @@
 
 A scientific calculator built with React, Tailwind CSS, and [mathjs](https://mathjs.org/) — degree/radian trig, memory functions, calculation history, keyboard shortcuts, and three built-in themes.
 
-**Live demo:** _add your GitHub Pages link here after deploying_
+**Live demo:** ([CalcVerse](https://mizan989.github.io/CalcVerse/))
 
 ## Features
 
@@ -33,7 +33,7 @@ A scientific calculator built with React, Tailwind CSS, and [mathjs](https://mat
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/calcverse.git
+git clone https://github.com/mizan989/CalcVerse.git
 cd calcverse
 npm install
 ```
@@ -86,7 +86,7 @@ This project can be hosted for free with GitHub Pages:
    ```
 5. In your GitHub repo, go to **Settings → Pages**, set source to the `gh-pages` branch, and save.
 
-Your app will be live at `https://YOUR-USERNAME.github.io/calcverse/`.
+Your app will be live at `https://mizan989.github.io/calcverse/`.
 
 ## Project structure
 
