@@ -426,14 +426,9 @@ export function CalcVerseContent() {
                 <Cpu className="w-4 h-4 text-emerald-400" />
               </div>
               <div>
-                <div className="flex items-center gap-1.5">
-                  <span className="font-bold tracking-tight text-base sm:text-lg font-sans-ui">
-                    Calc<span className={theme.accent}>Verse</span>
-                  </span>
-                  <span className={`px-1.5 py-0.2 rounded-full text-[9px] font-mono border ${theme.panelBorder} ${theme.badgeBg} ${theme.badgeText}`}>
-                    v2.0
-                  </span>
-                </div>
+                <span className="font-bold tracking-tight text-base sm:text-lg font-sans-ui">
+                  Calc<span className={theme.accent}>Verse</span>
+                </span>
                 <p className={`text-[10px] font-mono ${theme.subtext} hidden sm:block leading-none mt-0.5`}>
                   Precision Swiss Mathematical Studio
                 </p>
